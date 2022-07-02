@@ -324,7 +324,7 @@ span {
 	max-width: 30%;
 	background-color: #fff;
 	border-top-right-radius: 71px;
-	border-bottom-left-radius: 71px;
+	border-bottom-left-radius: 30px;
 }
 .featured-cards-huses:hover {
 	box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px,
@@ -352,7 +352,14 @@ span {
 .house-price {
 	margin-top: 5px;
 }
-.house-details > h3 {
+.description-condition {
+	color: grey;
+}
+.house-price {
+	font-weight: 500;
+	color: #0f298b;
+}
+.house-price > .house-details > h3 {
 	font-size: 23px;
 	font-weight: 500;
 }

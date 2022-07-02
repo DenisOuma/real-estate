@@ -7,6 +7,7 @@ body {
 	margin: auto;
 	width: 100%;
 	overflow: scroll;
+	overflow-x: hidden;
 
 	font-family: "Space Grotesk", sans-serif;
 }
@@ -356,4 +357,34 @@ span {
 	font-size: small;
 	font-weight: 400;
 	padding: 5 25px 0;
+}
+
+.review-cards-huses {
+	text-align: left;
+	background-color: #fff;
+	width: 30%;
+	max-width: 30%;
+	padding: 15px;
+	margin: 10px;
+	border-radius: 10px;
+}
+.review-cards-huses > h3 {
+	font-size: 30px;
+	font-weight: 400;
+	margin-bottom: 5px;
+}
+.review-cards-huses:hover {
+	box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px,
+		rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+	cursor: pointer;
+}
+.review-cards-huses .country-name {
+	font-weight: 500;
+	font-size: large;
+	margin-bottom: 10px;
+}
+
+.review-message {
+	font-size: 20px;
+	color: grey;
 }

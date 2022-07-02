@@ -232,3 +232,53 @@ span {
 	margin-top: 10px;
 	margin-bottom: 50px;
 }
+
+/* Recomendation section styling */
+.recomendation-section {
+	display: flex;
+	justify-content: space-between !important;
+	margin-top: 100px;
+	width: 100%;
+	align-items: center;
+}
+
+.recomendation-img {
+	height: 350px;
+	width: 450px;
+}
+.recomendation-img > img {
+	width: inherit;
+	height: inherit;
+}
+.recomendation-title > p {
+	font-size: 20px;
+	margin-top: 10px;
+
+	font-weight: 400;
+	color: grey;
+}
+.recomendation-title {
+	/* padding: 30px; */
+	width: 500px;
+}
+.checked-offers {
+	margin-top: 15px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.checked-content {
+	display: flex;
+	align-items: center;
+	margin-top: 10px;
+}
+.checked-content > label {
+	color: #000;
+	font-size: 19px;
+	padding-left: 5px;
+}
+.checked-content .material-symbols-rounded {
+	font-size: 19px;
+	/* font-weight: 600; */
+	font-variation-settings: "FILL" 900, "wght" 700, "GRAD" 0, "opsz" 48;
+}

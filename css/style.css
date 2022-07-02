@@ -286,3 +286,74 @@ span {
 	/* font-weight: 600; */
 	font-variation-settings: "FILL" 900, "wght" 700, "GRAD" 0, "opsz" 48;
 }
+
+/* featured section */
+.featured-section {
+	margin: 100px auto 100px;
+	text-align: center;
+}
+.featured-sectin-title {
+	width: 75%;
+	margin: auto;
+}
+
+.featured-section .featured-display {
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	width: 100%;
+}
+.featured-cards-huses {
+	height: 250px;
+}
+.featured-cards-huses {
+	/* height: 100px; */
+	width: 30%;
+	max-width: 30%;
+	background-color: #fff;
+	border-top-right-radius: 71px;
+	border-bottom-left-radius: 71px;
+}
+.featured-cards-huses:hover {
+	box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px,
+		rgba(255, 255, 255, 0.8) -6px -2px 16px 0px;
+	cursor: pointer;
+}
+.featured-cards-huses .top-image {
+	width: 100%;
+}
+.featured-cards-huses .top-image > img {
+	height: inherit;
+	width: inherit;
+}
+.description-details {
+	align-items: center;
+	justify-content: space-between;
+	padding: 20px 35px 20px;
+}
+.house-details,
+.house-price {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.house-price {
+	margin-top: 5px;
+}
+.house-details > h3 {
+	font-size: 23px;
+	font-weight: 500;
+}
+.btn-position-more {
+	width: 100%;
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-between;
+}
+#view-more-btn {
+	border-radius: 10px;
+	font-size: small;
+	font-weight: 400;
+	padding: 5 25px 0;
+}

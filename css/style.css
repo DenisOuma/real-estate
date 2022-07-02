@@ -61,6 +61,10 @@ body {
 	font-weight: 600 !important;
 	cursor: pointer;
 }
+.btn:hover {
+	box-shadow: rgba(136, 165, 191, 0.42) 6px 15px 16px 0px,
+		rgba(255, 255, 255, 0.9) -6px -15px 3px 0px;
+}
 hr {
 	border: none;
 	background-color: grey;
@@ -120,10 +124,6 @@ hr {
 	border-radius: 50px;
 	padding: none !important;
 }
-#more-btn {
-	box-shadow: rgba(136, 165, 191, 0.42) 6px 15px 16px 0px,
-		rgba(255, 255, 255, 0.9) -6px -15px 3px 0px;
-}
 
 /* stling the Search section */
 .search-section {
@@ -165,9 +165,11 @@ span {
 	color: #0f298b;
 	font-size: 20px;
 	font-weight: 500;
+	cursor: pointer;
 }
 #search-btn.material-symbols-rounded {
 	font-size: 23px;
+	cursor: pointer;
 }
 
 /* styling Product Section */
@@ -237,7 +239,9 @@ span {
 .recomendation-section {
 	display: flex;
 	justify-content: space-between !important;
-	margin-top: 100px;
+	margin-top: 150px;
+	margin-bottom: 150px;
+
 	width: 100%;
 	align-items: center;
 }

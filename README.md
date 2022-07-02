@@ -38,6 +38,6 @@ https://denisouma.github.io/real-estate/
 
 ## License information
 
-![#1589F0](MIT) `#1589F0`
+[MIT](#MIT)
 
 Copyright (c) 2022 Denis Ouma Otieno

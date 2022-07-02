@@ -55,6 +55,10 @@ body {
 	color: #0f298b;
 	font-weight: 600;
 }
+.nav-links ul > li > .visited-link:visited {
+	color: #0f298b;
+	font-weight: 700;
+}
 .logo > h1 {
 	font-family: "Oleo Script", cursive;
 }
@@ -83,7 +87,7 @@ hr {
 
 /* Styling Welcome section */
 .body-section {
-	padding-top: 100px;
+	padding-top: 160px;
 	width: 80%;
 	margin: auto;
 }

@@ -2,7 +2,7 @@
 
 # Project Name
 
-    Vallie's Estate
+Vallie's Estate
 
 ## Authors Name
 
@@ -22,9 +22,9 @@ This project is a landing page website for the Vallie's Estate company, which of
 
     Project is created with:
 
-    - HTML
-    - CSS
-    - Google Fonts and Icons
+        - HTML
+        - CSS
+        - Google Fonts and Icons
 
 ## Program Setup
 
@@ -38,6 +38,6 @@ The webpage address:
 
 ## License information
 
-[MIT](#MIT)
+[MIT](LICENCE)
 
 Copyright (c) 2022 Denis Ouma Otieno

@@ -2,11 +2,11 @@
 
 # Project Name
 
-Vallie's Estate
+    Vallie's Estate
 
 ## Authors Name
 
-Denis Ouma Otieno
+    Denis Ouma Otieno
 
 ## Table of contents
 
@@ -20,11 +20,11 @@ This project is a landing page website for the Vallie's Estate company, which of
 
 ## Technologies
 
-Project is created with:
+    Project is created with:
 
-- HTML
-- CSS
-- Google Fonts and Icons
+    - HTML
+    - CSS
+    - Google Fonts and Icons
 
 ## Program Setup
 
@@ -34,7 +34,7 @@ To run this project, clone or download it from git hub. Using Live server or you
 
 The webpage address:
 
-https://denisouma.github.io/real-estate/
+    https://denisouma.github.io/real-estate/
 
 ## License information
 

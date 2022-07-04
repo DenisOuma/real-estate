@@ -61,6 +61,7 @@ body {
 }
 .logo > h1 {
 	font-family: "Oleo Script", cursive;
+	cursor: pointer;
 }
 .btn {
 	padding: 15px;

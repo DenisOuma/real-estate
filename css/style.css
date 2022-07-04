@@ -25,7 +25,7 @@ body {
 }
 .nav-prim-bar {
 	position: fixed;
-	background-color: #fff;
+	background-color: inherit;
 	width: 1290px;
 	border-bottom: 1px solid grey;
 }

@@ -446,3 +446,7 @@ span {
 	color: azure;
 	font-size: 15px;
 }
+
+/* Using media Querriies */
+@media (max-width: 769px) {
+}
